@@ -1,0 +1,6 @@
+Evidence,Value,Uncertainty / note
+Low-readiness rule activations,53.0,Held-out cases
+High-readiness rule activations,23.0,Held-out cases
+Human-review rate,0.19090909090909092,Threshold=0.55
+Hybrid minus probabilistic-AI cost,-0.2786363636363636,"Grouped bootstrap 95% CI [-0.5269, -0.0819]"
+Paired fold Wilcoxon p-value,0.0625,Statistic=0.000; five country-grouped folds
